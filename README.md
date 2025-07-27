@@ -6,7 +6,7 @@ Software Developer
 
 * 🌍  I'm based in Kazahstan
 * ✉️  You can contact me at [kukakarakuzov@gmail.com](mailto:kukakarakuzov@gmail.com)
-* 🧠  I'm learning Spring boot
+* 🧠  I'm learning Golang
 
 <a href="https://www.github.com/KukaAbob" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KukaAbob?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
